@@ -79,5 +79,5 @@ Gradient Boosted Classifier produced the highest AUC and the following scores:
 
 The best results achieved by the OpenML users for this dataset have had results similar to this one, 95% accuracy using Random Forest. However, in this project, we were able to optimize this result using Gradient Boosted Classifier, with 96% accuracy.
 
-6. Tools
+# 5. Tools
 Jupyter notebook, Python 3.5.2 (Sklearn, Pandas, Numpy, Matplotlib and Seaborn)
